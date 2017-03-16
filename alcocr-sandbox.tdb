@@ -198,13 +198,13 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 $$$$-------------------------UNARY----------------------------------------
 
-$   PARAMETER G(BCC_A2,AL:VA;0)  2.98150E+02  +GALBCC#;   6.00000E+03   N REF0 !	
-$ 
-$   PARAMETER G(BCC_A2,CO:VA;0)  2.98150E+02  +GCOBCC#;   6.00000E+03   N 
-$  REF0 !
-$   PARAMETER TC(BCC_A2,CO:VA;0)  2.98150E+02  1450;   6.00000E+03   N REF0 !
-$   PARAMETER BMAGN(BCC_A2,CO:VA;0)  2.98150E+02  1.35;   6.00000E+03   N 
-$  REF0 !
+   PARAMETER G(BCC_A2,AL:VA;0)  2.98150E+02  +GALBCC#;   6.00000E+03   N REF0 !	
+ 
+   PARAMETER G(BCC_A2,CO:VA;0)  2.98150E+02  +GCOBCC#;   6.00000E+03   N 
+  REF0 !
+   PARAMETER TC(BCC_A2,CO:VA;0)  2.98150E+02  1450;   6.00000E+03   N REF0 !
+   PARAMETER BMAGN(BCC_A2,CO:VA;0)  2.98150E+02  1.35;   6.00000E+03   N 
+  REF0 !
 $  
 $   PARAMETER G(BCC_A2,CR:VA;0)  2.98150E+02  +GHSERCR#;   6.00000E+03   N 
 $  REF0 !
